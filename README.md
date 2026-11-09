@@ -23,11 +23,11 @@
 
 Profissional de Dados com mais de 3 anos de experiência em **Analytics, Business Intelligence e Ciência de Dados**.
 
-- 🚀 Atualmente atuo na **Mottu** no time de **Prevenção de Perdas**, sendo responsável pelo planejamento, controle e inventário de **mais de 200 mil veículos no Brasil e no México**.
-- 🎓 Pós-graduando (Lato Sensu) em **Data Analytics: Análise de Dados e Inteligência Artificial** pela **FIAP**.
-- 🎓 Graduado em **Ciência de Dados (CST)** pela **FIAP** (Média Geral: 9.2).
-- ⚙️ Experiência sólida em transformar grandes volumes de dados brutos em decisões operacionais e estratégicas, além de automatizar esteiras com APIs e **n8n**.
-- 🌐 Idiomas: **Português** (Nativo) | **Inglês** (Proficiente).
+- Atualmente atuo na **Mottu** no time de **Prevenção de Perdas**, sendo responsável pelo planejamento, controle e inventário de **mais de 200 mil veículos no Brasil e no México**.
+- Pós-graduando (Lato Sensu) em **Data Analytics: Análise de Dados e Inteligência Artificial** pela **FIAP**.
+- Graduado em **Ciência de Dados (CST)** pela **FIAP** (Média Geral: 9.2).
+- Experiência sólida em transformar grandes volumes de dados brutos em decisões operacionais e estratégicas, além de automatizar esteiras com APIs e **n8n**.
+- Idiomas: **Português** (Nativo) | **Inglês** (Proficiente).
 
 ---
 
