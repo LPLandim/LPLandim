@@ -1,9 +1,8 @@
-<div align="center">
+<p align="center">
+  <img src="https://raw.githubusercontent.com/LPLandim/LPLandim/main/header.svg" alt="Lucas Paes - Data Analytics &amp; BI" width="100%" />
+</p>
 
-  <!-- Header Banner Dinâmico -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E3A8A,100:0284C7&height=200&section=header&text=Lucas%20Paes&fontSize=42&fontAlignY=38&desc=Data%20Analyst%20%7C%20Business%20Intelligence%20%26%20Big%20Data&descAlignY=60&descAlign=50" width="100%"/>
-
-  <!-- Badges de Contato e Redes -->
+<p align="center">
   <a href="https://linkedin.com/in/lplandim" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -14,8 +13,7 @@
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   <img src="https://img.shields.io/badge/Localização-São%20Paulo,%20Brasil-2563EB?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Localização" />
-
-</div>
+</p>
 
 <br/>
 
@@ -166,10 +164,14 @@ Profissional de Dados com mais de 3 anos de experiência em **Analytics, Busines
 
 ### 📈 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LPLandim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LPLandim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=LPLandim&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=LPLandim&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" height="150" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=LPLandim&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=FF7B72&currStreakLabel=58A6FF" alt="GitHub Streak" />
+</p>
 
 <br/>
 
